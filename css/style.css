@@ -888,7 +888,7 @@
     position: relative;
     transform: skew(4deg);
     margin: 0 15px;
-    background: rgba(255, 245, 225, .5);
+    background: #fff5e180;
     transition: 0.5s;
 }
 
