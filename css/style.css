@@ -472,10 +472,10 @@
 }
 
 .hero-bg-half-1 {
-    background-image: url(../my_images/hf1.jpg);
+    background-image: url(../my_images/hf4.gif);
     /* clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%); */
     filter: grayscale(15%);
-    /* transform: scale(100% - 50%); */
+    transform: scale(100% - 50%);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -864,7 +864,7 @@
 .courses {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(12, 24, 68, 0.7), rgba(12, 24, 68, 0.7)), url(../img/services-img.jpg);
+    background: linear-gradient(#0c1844b3, rgba(12, 24, 68, 0.7)), url(../img/#);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1092,7 +1092,7 @@
 .explore {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(12, 24, 68, 0.7), rgba(12, 24, 68, 0.7)), url(../img/services-img.jpg);
+    background: linear-gradient(rgba(12, 24, 68, 0.7), rgba(12, 24, 68, 0.7)), url(../img/#);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1201,7 +1201,7 @@
 .testimonial {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(12, 24, 68, 0.9), rgba(12, 24, 68, 0.9)), url(../img/services-img.jpg);
+    background: linear-gradient(rgba(12, 24, 68, 0.9), rgba(12, 24, 68, 0.9)), url(../img/#);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1313,7 +1313,7 @@
 /*** Footer Start ***/
 .footer {
     overflow: hidden;
-    background: linear-gradient(rgba(12, 24, 68, 0.9), rgba(12, 24, 68, 0.98)), url(../img/services-img.jpg);
+    background: linear-gradient(#F6CEFC, #f3a2ff), url(../img/#);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
